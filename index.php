@@ -45,4 +45,10 @@
         </div>
     </div>
     <!-- Header End -->
+    <!-- CLOCK countdown -->
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script>
+    <a href="https://logwork.com/countdown-wtib" class="countdown-timer" data-timezone="Africa/Johannesburg" data-date="2023-03-30 12:57" data-background="#0279f7" data-digitscolor="#ffffff">50% DISCOUNT ENDS IN</a>
+   <!-- CLOCK END -->
+
+   
 </html>
