@@ -63,7 +63,7 @@
                 <div class="navbar-nav mx-auto py-0">
                     <a href="index.php" class="nav-item nav-link active">Home</a>
                     <a href="course.php" class="nav-item nav-link">Course</a>    
-                    <a href="chat.php" class="nav-item nav-link">Chat Room</a>                
+                    <a href="chat/index.php" class="nav-item nav-link">Chat Room</a>                
                     <a onclick="alert('If you have any questions email us at: info@Praesent a erat a libero viverra dapibus..co.za ');" class="nav-item nav-link">Contact</a>
                 </div>
                 <script>    </script>
